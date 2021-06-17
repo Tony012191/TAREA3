@@ -41,11 +41,11 @@ use_dark_psterm=0
 big_icons=0
 check_for_updates=1
 fixed_port=0
+history=C:\Users\itadmin\pseint\Tarea_4 PROMEDIO.psc
 history=C:\Users\itadmin\pseint\Tarea_3 CALCULADORA.psc
 history=C:\Users\itadmin\pseint\multiplicacion.psc
 history=C:\Users\itadmin\pseint\si entonces.psc
 history=C:\Users\itadmin\pseint\Segun.psc
-history=C:\Users\itadmin\pseint\Condiciones.psc
 
 profile=Flexible
 profile:source=list
